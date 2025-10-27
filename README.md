@@ -29,11 +29,45 @@ Grade: A
 
 ---
 
-## 💡 What I Learned
-- Taking user input using the `Scanner` class  
-- Using loops and conditional statements  
-- Performing calculations based on input  
-- Writing simple and readable Java programs  
+
+**Concepts Used:**  
+`Scanner`, `for` loop, `if-else` conditions, arithmetic operations.
+
+---
+
+## 🎯 3. Number Guessing Game
+A fun game where the computer randomly picks a number between **1 and 100**, and the user has to guess it.  
+The program gives hints like *“Too High”* or *“Too Low”* until the correct number is guessed.
+
+**Example Output:**
+Welcome to the Number Guessing Game!
+I'm thinking of a number between 1 and 100.
+Try to guess it!
+
+Enter your guess: 45
+Too low! Try again.
+Enter your guess: 78
+Too high! Try again.
+Enter your guess: 65
+🎉 Congratulations! You guessed the number in 3 attempts
+**Concepts Used:**  
+`Random` class, `while` loop, conditional statements.
+
+---
+
+### 💡 What I Learned
+- Taking input using `Scanner`  
+- Using loops and conditional logic effectively  
+- Generating random numbers  
+- Writing clean, readable Java code  
+- Understanding basic problem-solving using Java
+
+---
+
+### 🚀 How to Run
+1. Open the project in **Eclipse IDE**.  
+2. Open any `.java` file (for example, `Number_Guessing_Game.java`).  
+3. Run the program and follow the console instructions.
 
 ---
 
@@ -42,15 +76,17 @@ Grade: A
 - **IDE:** Eclipse  
 - **Version Control:** Git & GitHub  
 
+---### ✨ About
+
+Created by **Kothai D G** as part of my **Java learning journey and placement preparation**.  
+This repository shows my practice and understanding of Java fundamentals through working programs.
+
 ---
 
-## 👩‍💻 About
-This repository shows my basic understanding and practice of **core Java programming concepts**.  
-I plan to add more small projects to this collection as I keep learning.
+⭐ *I’ll continue to add more programs as I keep learning Java!*
 
----
 
-⭐ *This repository is part of my learning journey in Java programming.*
+
 
 
 
